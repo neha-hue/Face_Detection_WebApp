@@ -1,6 +1,11 @@
 # Face_Detection_WebApp
 #output
-
+#for Running this project open folder in vscode
+#open terminal
+#then enter command pipenv install streamlit
+# pipenv install Pillow numpy opencv-python matplotlib 
+# Install all the library of python
+#for running the program enter command-pipenv run streamlit run face7.py
 ![Screenshot (73)](https://user-images.githubusercontent.com/80202600/188280109-6303379d-e60b-4251-a342-bfdf5025eb7d.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/80202600/188280111-bf361f1e-c55e-4601-8d0b-14e9e3ab829c.png)
 ![Screenshot (54)](https://user-images.githubusercontent.com/80202600/188280115-eafd2fb2-e511-4d74-8773-80c49ce8cf49.png)
